@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kawish-Ahmad
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Data Analytics.
-- 💞 Ask me about Excel, SQL, PowerPoint, Power BI, Data Analysis.
+- 💞 Ask me about Python-Numpy,Pandas,Matplotlib,Seaborn, MySQL, Advance Excel, Power BI, Data Analysis,PowerPoint.
 - 📫 How to reach me syedkawish3@gmail.com
 
 <!---
